@@ -1,0 +1,4 @@
+[submodule "pucar15/spt"]
+	path = pucar15/spt
+	url = git@github.com:pucar15/spt.git
+	branch = main
